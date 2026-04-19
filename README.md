@@ -20,7 +20,7 @@ The study models EV adoption trends, compares CO₂ emissions between Electric V
 
 ## Folder Structure
 ```
-Ev_Global_Model/
+Ev-Global-Model/
 │
 ├── paper/
 │ └── Global_Model_EV_Adoption.pdf
